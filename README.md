@@ -7,8 +7,10 @@ Here are all my personal dotfiles for arch linux that I use everyday. I stole th
 - App launcher -> Rofi
 - Terminal -> Alacritty (with transparency and blur)
 - Customized Lunar vim
+- Image viewer and wallpaper manager -> Feh
 
 ## Installing dependencies
+```bash
 sudo pacman -S \
   bspwm sxhkd
   picom-git
@@ -18,3 +20,4 @@ sudo pacman -S \
   alacritty
   xclip
   ttf-nerd-fonts-symbols nerd-fonts-sarasa-mono noto-fonts-emoji
+```
