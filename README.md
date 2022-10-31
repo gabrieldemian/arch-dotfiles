@@ -21,3 +21,6 @@ sudo pacman -S \
   xclip
   ttf-nerd-fonts-symbols nerd-fonts-sarasa-mono noto-fonts-emoji
 ```
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/42912075/198916856-eeec96fd-dd83-42ef-820c-efaeab1e1350.png)
